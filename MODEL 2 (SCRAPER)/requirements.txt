@@ -1,0 +1,14 @@
+flask
+selenium
+bs4
+google
+requests_html
+pandas
+regex
+requests
+Scrapy
+beautifulsoup4
+requests
+numpy
+docx2txt
+tqdm
